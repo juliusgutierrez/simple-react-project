@@ -4,9 +4,14 @@
   "private": true,
   "dependencies": {
     "bootstrap": "^4.0.0-alpha.6",
+    "jquery": "3",
+    "lodash": "^4.17.11",
+    "node-sass": "^4.11.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
-    "react-scripts": "2.1.8"
+    "react-router-dom": "latest",
+    "react-scripts": "2.1.8",
+    "validator": "^10.11.0"
   },
   "scripts": {
     "start": "react-scripts start",
