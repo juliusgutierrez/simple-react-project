@@ -1,3 +1,6 @@
+## Login Page ScreenShot
+![ScreenShot](https://github.com/juliusgutierrez/simple-react-project/blob/master/public/screenshot/Screen%20Shot%202019-04-18%20at%203.07.18%20PM.png)
+
 ## Available Scripts
 
 In the project directory, you can run:
